@@ -24,3 +24,7 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 26ms (Views: 9.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/hello_world" for 69.250.234.128 at 2019-07-09 00:22:31 +0000
+Processing by HwController#hello_world as HTML
+  Rendering hw/hello_world.html.erb within layouts/application
+  Rendered hw/hello_world.html.erb within layouts/application (0.4ms)
